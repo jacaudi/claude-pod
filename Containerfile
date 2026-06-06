@@ -10,7 +10,7 @@ ARG ALPINE_VERSION=3.23
 ARG CLAUDE_CODE_VERSION=2.1.167
 
 # renovate: datasource=docker depName=golang
-ARG GO_VERSION=1.26.3
+ARG GO_VERSION=1.26.4
 
 # renovate: datasource=docker depName=ghcr.io/astral-sh/uv
 ARG UV_VERSION=0.11.19
