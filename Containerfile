@@ -1,4 +1,4 @@
-# syntax=docker/dockerfile:1.24
+# syntax=docker/dockerfile:1.25
 
 # renovate: datasource=docker depName=debian
 ARG DEBIAN_VERSION=trixie-20260505-slim
